@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- ===================== -->
+<!--  GitHub Profile README -->
+<!--  Username: VinzSec1337 -->
+<!-- ===================== -->
 
-<!--
-**VinzXploit/VinzXploit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🔐 Cyber Security Enthusiast | Penetration Tester</h1>
+<h3 align="center">Security Researcher • Ethical Hacker • CTF Player</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VinzSec1337&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Focus Areas
+<p align="center">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLi-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XSS-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSRF-darkred?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RCE-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LFI%2FRFI-blue?style=for-the-badge" />
+</p>
+
+---
+
+## 👤 About Me
+```bash
+vinz@pentest:~$ whoami
