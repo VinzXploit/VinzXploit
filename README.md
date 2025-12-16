@@ -40,7 +40,7 @@ vinz@pentest:~$ whoami
 📊 Hacking Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VinzSec1337&show_icons=true&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinzSec1337&layout=compact&theme=radical&hide_border=true" /> </p>
 
-🛡️ Security Arsenal
+<center>🛡️ Security Arsenal</center>
 
 🔧 Penetration Testing Tools
 <p align="center"> <img src="https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Metasploit-darkblue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Wireshark-lightblue?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQLMap-red?style=for-the-badge" /> </p>
