@@ -4,7 +4,7 @@
 <!-- ===================== -->
 
 <h1 align="center">🔐 Cyber Security Enthusiast | Penetration Tester</h1>
-<h3 align="center">Security Researcher • Ethical Hacker • CTF Player</h3>
+<h3 align="center">Security Researcher • Ethical Hacker • programer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VinzSec1337&label=Profile%20Views&color=0e75b6&style=flat" />
