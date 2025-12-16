@@ -30,8 +30,11 @@ vinz@pentest:~$ whoami
 ```
 
 • 🔍 Penetration Tester (Web Application & Network)
+
 • 🐞 Bug Bounty Hunter (learning & practicing)
+
 • 🧪 Security Researcher (vulnerability analysis)
+
 • ⚖️ Ethical Hacker (Responsible Disclosure)
 
 📊 Hacking Stats
